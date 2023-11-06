@@ -1,5 +1,5 @@
 steps
-1. install all packges using npm istall 
+1. install all packges using npm istall  
 2. change directory to backend , run index.js file 
 3. change directory to settylassignment , run 2 commands 
     i. npx json-server --watch data.json --port 8000
